@@ -1,0 +1,7 @@
+image_id,image_hw,requested_bpp,target_bpp,target_bits,target_bytes,payload_size_bytes,payload_size_bits,payload_bytes,payload_bits,actual_bpp,actual_raw_bpp,actual_embedded_bpp,psnr,ssim,mse,ber,extraction_success,recovery_success,payload_recovery_%,cover_recovery_%,usable_capacity_bits,theoretical_capacity_bits,capacity_utilization_%,embed_time_s,extract_time_s,max_capacity_bits,status
+stego.png,256×256,0.001,0.001,65,8,1,8,1,8,0.000122,0.000122,0.009888,77.05,1.0,0.0013,0.0,True,False,100.0,99.9,114076,130962,0.57,0.4479,0.0845,114076,success
+stego.png,256×256,0.005,0.005,327,40,1,8,1,8,0.000122,0.000122,0.009888,77.07,1.0,0.0013,0.0,True,False,100.0,99.9,114076,130962,0.57,0.4014,0.0803,114076,success
+stego.png,256×256,0.01,0.01,655,81,1,8,1,8,0.000122,0.000122,0.009888,77.56,1.0,0.0011,0.0,True,False,100.0,99.9,114076,130962,0.57,0.3828,0.0818,114076,success
+stego.png,256×256,0.02,0.02,1310,163,71,568,71,568,0.008667,0.008667,0.018433,71.99,1.0,0.0041,0.0,True,False,100.0,99.79,114076,130962,1.06,0.4966,0.0842,114076,success
+stego.png,256×256,0.05,0.05,3276,409,317,2536,317,2536,0.038696,0.038696,0.048462,66.64,0.9999,0.0141,0.0,True,False,100.0,99.41,114076,130962,2.78,0.3158,0.1068,114076,success
+stego.png,256×256,0.1,0.1,6553,819,727,5816,727,5816,0.088745,0.088745,0.098511,63.67,0.9998,0.0279,0.0,True,False,100.0,98.81,114076,130962,5.66,0.4075,0.1266,114076,success
